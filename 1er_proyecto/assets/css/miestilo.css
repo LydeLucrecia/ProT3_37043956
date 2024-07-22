@@ -1,0 +1,87 @@
+/*
+body{ background-color:#EAA9B8; 
+    color:#534C49; 
+    font-family:Arial,sans-serif; 
+    margin:0; padding:0; } 
+    strong {   font-weight: bold;   color: b#D4CBC7;  } 
+ 
+    .formatoParrafo
+    {
+        text-align: center;
+        font-weight: bold;
+        font-style: italic;
+    }
+   
+.div.estilo
+{
+    text-align:left; 
+    font-weight: bold; 
+    font-size: medium;
+   color:#A52A2A;
+}
+*/
+header {
+    background-color: #EAA9B8;
+    color: #534C49;
+    text-align: center;
+    padding: 20px;
+    }
+    section {
+    padding: 20px; /* espaciado para la sección de 20 pixeles */}
+    footer {
+    background-color:#EAA9B8; /* Color de fondo del footer */
+    color: #F6DDDC;
+    padding: 20px 0; }
+    .footer-content {
+    max-width: 800px; /* Ancho máximo del contenido del footer */
+    margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+    text-align: center; }
+    
+    
+    /* Estilos para el nav y enlaces de ul y li */
+    nav {
+    background-color: #534c49;
+    padding: 10px;
+    }
+    nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    }
+    nav ul li a {
+    color:#F1ECE8;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    }
+    nav ul li a:hover {
+    background-color: #EAA9B8 ;
+    }
+    
+    
+    /* Estilos para las imágenes */
+    img {
+    display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
+    margin: 0 auto; /* Centrar las imágenes horizontalmente */
+    max-width: 100%; /* Asegurar que las imágenes no excedan el ancho del contenedor */
+    border: 3px solid #EAA9B8; /* Contorno de 3px alrededor de la img.*/
+    border-radius: 5px; /* Borde redondeado de 10px para suavizar el contorno */
+    }
+    
+    
+    
+    
+    /*Agregue estilo al body*/
+    body {
+        background-color:#d4c7cb;
+    }
+
+    /*Para transformar en mayusculas, donde esta el registro*/
+    .text-uppercase{
+        text-transform : uppercase;
+    }

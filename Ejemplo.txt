@@ -1,0 +1,8 @@
+Administrador
+
+Usuario: lucreciasoraya@gmail.com
+contraseña: gatoss
+
+cliente
+Usuario: adanlyde@gmail.com
+contraseña: osito
